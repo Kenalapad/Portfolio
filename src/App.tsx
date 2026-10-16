@@ -255,7 +255,7 @@ function App() {
               Have a project in mind or want to chat? Feel free to reach out!
             </p>
             <div className="contact-info">
-              <a href="mailto:alex@example.com">alex@example.com</a>
+              <a href="mailto:alapadkennethlester@example.com">alapadkennethlester@example.com</a>
               <div className="social-links">
                 <a
                   href="https://github.com"
